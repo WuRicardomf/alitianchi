@@ -113,8 +113,8 @@ It typically uses the user's last click as the ground truth and reports Hit Rate
 Example output:
 
 ```text
-Recall@10: 0.0758
-NDCG@10: 0.0392
+Recall@10: 0.8056
+NDCG@10: 0.4954
 ```
 
 ## Tips
